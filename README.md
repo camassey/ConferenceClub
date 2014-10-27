@@ -1,4 +1,4 @@
-#Conference Club
+#Conference Club Fundamentals
 
 References and exercises for [folks who want to get better at speaking](http://agilecoach.typepad.com/agile-coaching/2014/05/conference-club.html) / attending conferences. For the backlog of things that might be worth reading and adding to this page, check out the [Reading List](ReadingList.md). And if you want to add something, check out the (pretty light) [contribution guidelines](Contribute.md).
 
