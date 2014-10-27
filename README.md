@@ -2,15 +2,15 @@
 
 References and exercises for [folks who want to get better at speaking](http://agilecoach.typepad.com/agile-coaching/2014/05/conference-club.html) / attending conferences. For the backlog of things that might be worth reading and adding to this page, check out the [Reading List](ReadingList.md). And if you want to add something, check out the (pretty light) [contribution guidelines](Contribute.md).
 
-- [TOPIC](#topic)
-- [BIO](#bio)
-- [WHEN / WHERE](when--where)
-- [FORMAT](format)
-- [PREPARE](prepare)
-- [PROPOSE](propose)
-- [PRACTICE](practice)
-- [PRESENT](present)
-- [NETWORKING](networking)
+- [TOPIC](https://github.com/camassey/ConferenceClub/blob/master/README.md#topic)
+- [BIO](https://github.com/camassey/ConferenceClub/blob/master/README.md#bio)
+- [WHEN / WHERE](https://github.com/camassey/ConferenceClub/blob/master/README.md#when--where)
+- [FORMAT](https://github.com/camassey/ConferenceClub/blob/master/README.md#format)
+- [PREPARE](https://github.com/camassey/ConferenceClub/blob/master/README.md#prepare)
+- [PROPOSE](https://github.com/camassey/ConferenceClub/blob/master/README.md#propose)
+- [PRACTICE](https://github.com/camassey/ConferenceClub/blob/master/README.md#practice)
+- [PRESENT](https://github.com/camassey/ConferenceClub/blob/master/README.md#present)
+- [NETWORKING](https://github.com/camassey/ConferenceClub/blob/master/README.md#networking)
 
 ##TOPIC: 
 Identify topics you are interested in and know something about
