@@ -2,6 +2,16 @@
 
 References and exercises for [folks who want to get better at speaking](http://agilecoach.typepad.com/agile-coaching/2014/05/conference-club.html) / attending conferences. For the backlog of things that might be worth reading and adding to this page, check out the [Reading List](ReadingList.md). And if you want to add something, check out the (pretty light) [contribution guidelines](Contribute.md).
 
+- [TOPIC](#topic)
+- [BIO](#bio)
+- [WHEN / WHERE](when--where)
+- [FORMAT](format)
+- [PREPARE](prepare)
+- [PROPOSE](propose)
+- [PRACTICE](practice)
+- [PRESENT](present)
+- [NETWORKING](networking)
+
 ##TOPIC: 
 Identify topics you are interested in and know something about
 ###Reading
@@ -10,7 +20,7 @@ Identify topics you are interested in and know something about
 Update your profile on LinkedIn / GitHub / blog / Twitter to reflect your interest/experience
 ###Reading
 ###Exercises
-##WHERE: 
+##WHEN / WHERE: 
 Find meetups / conferences that might people go along to discuss that topic which have open space or CFP (call for participation)
 ###Reading
 - [CallToSpeakers](https://calltospeakers.com/)
@@ -21,10 +31,6 @@ Find meetups / conferences that might people go along to discuss that topic whic
 - [Meetup](http://www.meetup.com/)
 - [Lanyrd](http://lanyrd.com/dashboard/)
 
-###Exercises
-##DATES: 
-When do you need to submit a proposal by, these can be upto 6 months before the conference date
-###Reading
 ###Exercises
 ##FORMAT: 
 consider what format is best fit for you and conference (workshop, talk, experience report, etc)
@@ -38,10 +44,15 @@ design material slides or exercise to lead session participants through subject 
 put forward your idea to organisers:
 ###Reading
 - [Kent Beck on how to write a conference abstract](http://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)
-- [Rachel Vélez on "Is your conference proposal good enough?"](http://rckbt.me/2014/01/conference-proposals/)
+- [Rachel Vélez on Is your conference proposal good enough?](http://rckbt.me/2014/01/conference-proposals/)
+
 ###Exercises
 ##PRACTICE: 
 do a run through of session with small group to work out any glitches
+###Reading
+###Exercises
+##PRESENT
+Actually steppign up and giving your presentation.
 ###Reading
 ###Exercises
 ##NETWORKING
