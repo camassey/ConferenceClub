@@ -1,8 +1,6 @@
 #Conference Club
 
-References and exercises for folks who want to get better at speaking / attending conferences - *based on [http://agilecoach.typepad.com/agile-coaching/2014/05/conference-club.html]()*
-
-For the backlog of things that might be worth reading, check out the [Reading List](ReadingList.md)
+References and exercises for [folks who want to get better at speaking](http://agilecoach.typepad.com/agile-coaching/2014/05/conference-club.html) / attending conferences. For the backlog of things that might be worth reading and adding to this page, check out the [Reading List](ReadingList.md). And if you want to add something, check out the (pretty light) [contribution guidelines](Contribute.md).
 
 ##TOPIC: 
 Identify topics you are interested in and know something about
@@ -44,5 +42,8 @@ put forward your idea to organisers:
 ###Exercises
 ##PRACTICE: 
 do a run through of session with small group to work out any glitches
+###Reading
+###Exercises
+##NETWORKING
 ###Reading
 ###Exercises
