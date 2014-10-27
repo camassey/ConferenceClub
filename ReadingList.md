@@ -24,3 +24,4 @@ Stuff that's worth reading, but needs some categorisation.
 - [http://www.annashipman.co.uk/jfdi/conference-speaking.html]()
 - [http://weareallaweso.me/]()
 - [http://seb.ly/2014/05/how-to-ask-to-get-paid-to-speak/]()
+- [The Dead Speakers Society](https://groups.google.com/forum/#!forum/dead-speakers-society) <- seems to be pretty young, but worth watching.
