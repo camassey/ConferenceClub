@@ -26,3 +26,4 @@ Stuff that's worth reading, but needs some categorisation.
 - [http://seb.ly/2014/05/how-to-ask-to-get-paid-to-speak/]()
 - [The Dead Speakers Society](https://groups.google.com/forum/#!forum/dead-speakers-society) <- seems to be pretty young, but worth watching.
 - [20 Apps beyond PowerPoint for creating great presentations](https://zapier.com/blog/best-powerpoint-alternatives/)
+- [How to write a good bio](http://scottberkun.com/2013/how-to-write-a-good-bio/)
